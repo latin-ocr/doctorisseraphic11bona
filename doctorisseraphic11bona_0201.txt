@@ -1,0 +1,156 @@
+ 
+
+DIST. IV. ART. UNICUS QUAEST. ΙΙ. 99
+
+vel de quibus huiusmodi terminus in aliqua propositione veri-
+ficatur. Sic terminus homo potest supponere vel pro homine in
+communi, ut in propositione: homo est species3 vel pro suis
+inferioribus sub hac specie comprehensis, v. g. homo currit.
+Suppositionum alia est communis, alia discreta ; illa sst per
+terminum communem ‚ ut homo est mortalis; haec per termi-
+num discretum (concretum), ut Socrates, vel per communem,
+sed determinatum per pronomen demonstrativum, ut iste homo.
+
+Aliae divisiones suppositionis apud S. Bonav. occurentes
+sunt: suppositio simplex et personalis. Illa est acceptio termini
+communis pro re universali significata per ipsum terminum
+communem, ut cum dieitur: homo est species; animal est
+genus. Tunc terminus homo supponit pro homine in com-
+muni, et non pro quolibet inferiore; unde non licet facere de-
+scensum, uti dicunt, sic arguendo: homo est species: ergo
+aliquis homo est species. Perso'nalis vero suppositio est acce-
+ptio termini communis pro suis inferioribus, ut cum dicitur:
+homo currit, hie iste terminus homo supponit pro suis inferio-
+ribus. -— Personalium suppositionum alia est determinata, alia
+est confusa. Beier—minata est acceptIO termini eommunis inde-
+finite sumti, vel cum signo particulari, ut homo currit, vel
+aliquis homo rurrit; et dicitur determinata ‚ quia licet in utra-
+que istarum propositionum ille terminus homo supponat pro
+omni homine tam currente quam non currente, tamen uno
+solo homine currente, propositio est vera; et quia aliud est sup-
+ponere et aliud locutionem rverctm vel salsam esse pro aliquo,
+igitur in praedictis iste terminus homo supponit pro omni ho-
+mine currente et non currente, licet reddat locutionem veram
+pro uno solo currente... 0071111311Υ suppositio est acceptio termini
+communis pro pluribus, mediante signo universali, ut cum di-
+citur: omnis homo est animal; quia supponit terminus homo
+pro quolibet suo supposito, Ita Petrus Hisp.; alii quoad confa-
+sam et determinatam suppositionem rem paulo aliter explicant.
+
+2. Distributio est acceptio termini communis pro suis si-
+gnificatis, sive est multiplicatio termini communis virtute ali-
+cuius signi universalis, v. g. in propositione: omnis homo
+currit, terminus homo distribuitur (sive confunditur) pro omni-
+bus hominibus virtute illius vocabuli omnis, quod simiam
+distributivum appellatur.
+
+3. Restrictio est coarctatio termini communis a maiore
+suppositione sive extensione ad minorem; sic homo aibas non
+significat omnes homines, sed partem eorum.
+
+4. Reddere locutionem veram significat, quod in proposi-
+tione, in qua subiectum supponit pro pluribus disiunctive,
+sensus redditur verus per hoc, quod in uno saltem supposito
+
+ 
+
+verificatur; v. g. propositio: homo currit, redditur vera, cur-
+rente uno qualicumque. Unde reddere locutionem veram differt
+a restrictione termini ad unum, ut hene dicit S. Bonav.‚ hic
+ad 2.
+
+11. Η1ε suppositis, quatuor regulae logicales in corp. positae
+earumque applicatio in solutione obiectorum facile intelliguntur.
+Sic verba (ad 2.): ιι quia si addatur distributio, confundet illum
+terminum pro omnibus n, hunc sensum habent: si additur si-
+gnum omnis termino homo, tunc confundet i. e. distribuet illum
+terminum, ita ut verificetur de omnihus hominibus; si vero ter-
+minus homo restringitur per albus, tunc non ιι confunderet nisi
+pro albis hominibus 1>. — Pro intelligentia applicationis quartae
+regulae est notandum, quod est duplex relatio pronominis rela-
+tivi ad suum nomen, scil. relatio simplem vel personalis. Per
+relationem simplicem pronomen relativum ((1111, quae, quod)
+non refertur ad idem numero antecedens sive ad idem suppo-
+situm, hene vero per relationem personalem. Exemplum: τι 11111-
+lier damnavit, quae salvavit3 » 1110 relativum qaae habet rela-
+tionem simplicem, non personalem, quia alia mulierum perso-
+na damnavit, nempe Eva, alla salvavit, scil. Ss. Virgo Ma-
+ria. Unde S. Doctor reete concludit, quod in illata obiectione
+est fiyura dictionis i. e. fallacia figurae dictionis, quia termi-
+nus sumitur sub diversa suppositione. De hoc plura vide dub.
+3. huius dist.‚ Alex. Hal.‚ p. l. q. 50. m. 3. a. 23 4. Richard.
+a Med„ hic q. ¹1.
+
+ill. Contra applicationem tertiae regulae ad Deum moverunt
+subtilem difficultatem Durand. (hic q. 2.), AureoL, Bruliser (hoc
+1000) aliique posteriores Scholastici. Negant enim, quod Dens
+sit proprie terminus singularis , curn aliquo modo sit etiam ter-
+minus communis, quod etiam S. Bonav. (infra q. 4.) concedit.
+lnde concludunt, propositionem 2 Deus non generat Deum, posse
+concedi. Probatiores vero theologi, ut S. Thomas (S. l. q. 39.
+a. 4. ad 3.)‚ Richard. (hic q. 1.) aliique cum nostro Seraphico
+(hic ad 3.) locutionem hanc recte improbant. Cir. Caietanus ad
+loc. S. Thomae cit.
+
+lV. Quoad quaestionis solutionem omnes antiqui conveniunt.
+Csr. S. Bonam, infra d. 9. q. sl. — Alex. Hal.‚ S. p. l. q. 50.
+m. 3. a. 2. (5 l. 4. —- Scot, hic q. l. ad 1. —S. Thom.⁷ hic
+q. 1l. 2; S. 1. q. 39. a. 4. — Β. Alhert„ 1110 a. 6. 7; (10 hac
+et seqq. qq.⁷ S. p. 1. ι1, Ἰ13. q. 51. - Petr. a Tan, hic q. 2.
+a. l. et 3. — Richard. a Med, hic q. 1. - AEgid. it, de. hac
+ct seq. q. hic 2. princ. q. unica. — Henr. Gand. , de hac et
+seqq. qq.‚ S. a. 54. q. 3. - Durand., de hac ει seqq. qq. hic
+q. 2. —Dionys Carth„ de hac et seqq. qq. 1110 q. 2. — Biel,
+de hac et seq. q. hic q. l.
+
+QUAEsrlo 11.
+
+Utrum admitti possit liaec locutio.- Deus· peperat aliam Deam.
+
+Secundo quaeritur, utrum unitas essentiae ad-
+mittat hanc: Deus generat alium Deum. Et quod
+non, videtur.
+
+1. Anselmus de Processione Spiritus sancti¹:
+
+Fundamenta· «Cum dicimus Deum de Deo, non intelligimus alium
+
+Deum, sed eundem de se ipso».
+
+⁹2. Item, si genuit alium Deum3 sed uhi est
+unus et alius, ibi sunt duo: ergo si genuit alium,
+sunt duo dii.
+
+3. Item, alius dicit alietatem in generali: ergo
+cum generale specificetur per adiunctum, 1100 0001011
+
+Deus specificat ipsum; sed si specificat, specificat
+ratione formae: ergo notatur alietas in forma: ergo
+non est admittenda talis locutio, cum non sit ibi
+alietas in forma.
+
+SED CONTRA: 1. Generatio importat distinctio-Aa opposi-
+
+nem ²3 sed distinctio alietatem aliquam: ergo et ge—
+nerati03 ergo si haec est vera: Deus genuit Deum,
+et haec per consequens: Deus distinguitur a Deo,
+vel genuit alium Deum. Si dicas, quod non sequa-
+tur, quia generare importat distinctionem ut modum,
+sed distingui vel esse alium ut reim contra: ad
+
+ 
+
+1 Cap. 241 Nam cum dicimus Deum de Deo, Filium de
+Patre, non alium intelligimus Deum de Dco alio , sed eundem
+ipsum Deum de eodem ipso Deo. — Codd. cum Vat. salso ponunt
+in Prostoyio.
+
+² Nam ut ait Ariston, ll. de Anima, text. 47. (c. 4.): Gene-
+
+ 
+
+rat autem nihil ipsum se ipsum. -—- De propositione minore Ari-
+ειοι.7 X1V.Metaph. c. 3. (Xlll. c. l.): Alterum (contrarium
+est.) eidem, et aliud ipsi (αὐτῷ). - 10 hac propositione minore
+Vat. et loco sed, obstantibus mss. et ed. 1.
+
